@@ -1,0 +1,4 @@
+Wybierz opcje dzialania:
+Wybierz przedmiot ktory chcesz kupic:
+Kontynuuj zakupy
+Przerwij zakupy

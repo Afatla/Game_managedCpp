@@ -1,0 +1,11 @@
+Another Battle Name
+Another Battle Description
+What do you want to do?
+Melee Attack
+Ranged Attack
+Block Attack
+Wrong number! Try again!
+Next opponent!
+You won!
+You lose!
+Here is your reward!
